@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+# Ensure specific file types have LF line endings
+*.go text eol=lf
+*.mod text eol=lf
+*.sum text eol=lf
+*.yaml text eol=lf
+# Add other file types as needed
