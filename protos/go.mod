@@ -1,4 +1,4 @@
-module github.com/alexzin1331/repo4
+module one
 
 go 1.23.2
 
